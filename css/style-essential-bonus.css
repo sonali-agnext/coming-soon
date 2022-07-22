@@ -1066,7 +1066,10 @@ sup {
     border: none;
   }
   #section0 {
-    padding: 40px 0 100px;
+    padding: 40px 0 100px !important;
+  }
+  .mob-next{
+    white-space: nowrap;
   }
   .inside-split-text {
     padding: 0 40px;
